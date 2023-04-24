@@ -2,7 +2,7 @@
 SentenceCategoryClassfication using Bayes Fillter | easy example
 
 
-#**Bayes' Theorem |**
+# **Bayes' Theorem |** <br>
 A theorem related to conditional probability, established by Thomas Bayes. <br>
 
 `P(B|A) = P(A|B)P(B)/P(A)`<br>
@@ -16,7 +16,7 @@ P(B|A): conditional probability of B occurring given that A has occurred <br>
 `P(B|A) = P(B∩A)/P(A)` <br>
 The probability of event B given that event A has occurred. <br>
 
-#**Naive Bayes Classifier |** <br>
+# **Naive Bayes Classifier |** <br>
 A classification algorithm that uses Bayes' Theorem to classify text into appropriate categories by examining the frequency of word occurrences in the text. <br>
 
 A represents a set of words in the text and P(B) represents the probability of being classified into each category. <br>
